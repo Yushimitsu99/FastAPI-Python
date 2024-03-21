@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|solutionrelative:sql_app\\schemas.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\crud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|solutionrelative:sql_app\\crud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\env\\Lib\\site-packages\\pydantic\\_internal\\_config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:env\\Lib\\site-packages\\pydantic\\_internal\\_config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|solutionrelative:sql_app\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|solutionrelative:sql_app\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1624548D-CED9-4E38-A0A1-00EE410DF76F}|AlembicPostgres.pyproj|solutionrelative:sql_app\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\models.py",
+              "RelativeDocumentMoniker": "sql_app\\models.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\models.py",
+              "RelativeToolTip": "sql_app\\models.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-21T08:00:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\database.py",
+              "RelativeDocumentMoniker": "sql_app\\database.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\database.py",
+              "RelativeToolTip": "sql_app\\database.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-21T07:21:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_config.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\env\\Lib\\site-packages\\pydantic\\_internal\\_config.py",
+              "RelativeDocumentMoniker": "env\\Lib\\site-packages\\pydantic\\_internal\\_config.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\env\\Lib\\site-packages\\pydantic\\_internal\\_config.py",
+              "RelativeToolTip": "env\\Lib\\site-packages\\pydantic\\_internal\\_config.py",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAowCIBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-21T07:21:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crud.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\crud.py",
+              "RelativeDocumentMoniker": "sql_app\\crud.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\crud.py",
+              "RelativeToolTip": "sql_app\\crud.py",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-20T14:26:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "schemas.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\schemas.py",
+              "RelativeDocumentMoniker": "sql_app\\schemas.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\schemas.py",
+              "RelativeToolTip": "sql_app\\schemas.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-20T14:22:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\main.py",
+              "RelativeDocumentMoniker": "sql_app\\main.py",
+              "ToolTip": "C:\\Users\\bdmys\\source\\repos\\AlembicPostgres\\sql_app\\main.py",
+              "RelativeToolTip": "sql_app\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-20T14:21:15.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
