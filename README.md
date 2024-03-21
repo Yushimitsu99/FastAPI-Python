@@ -1,6 +1,6 @@
 # Documentation de l'API FastAPI 🚀
 
-Bienvenue dans la documentation de notre API FastAPI. Cette API permet la gestion des utilisateurs et de leurs ressources dans une application, en utilisant des technologies de pointe comme SQLAlchemy, Pydantic, et Passlib, avec Alembic pour les migrations de base de données et PostgreSQL comme système de gestion de base de données.
+Cette API permet la gestion des utilisateurs et de leurs ressources dans une application, en utilisant des technologies de pointe comme SQLAlchemy, Pydantic, et Passlib, avec Alembic pour les migrations de base de données et PostgreSQL comme système de gestion de base de données.
 
 ## 🛠 Configuration de l'environnement
 
